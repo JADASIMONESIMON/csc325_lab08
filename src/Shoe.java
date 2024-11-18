@@ -1,0 +1,3 @@
+interface Shoe {
+    String getDescription();
+}
